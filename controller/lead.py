@@ -11,5 +11,8 @@ def update_lead():
 
 # Get lead.
 def get_lead():
-  print 'Get lead done.'
-  
+  print 'Get lead done.'  
+
+# Delete lead.
+def delete_lead():
+  print 'Delete lead done.'
